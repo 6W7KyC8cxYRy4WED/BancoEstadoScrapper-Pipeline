@@ -1,1 +1,0 @@
-# BancoEstadoScrapper-Pipeline
